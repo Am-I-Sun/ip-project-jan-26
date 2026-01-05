@@ -2,13 +2,13 @@
 [Made by 3 Members]
 
   - Roll_23 =
-	@harshvardhansontakke341-hub        -------------    (HTML/ Frontend Development)
+  https://github.com/harshvardhansontakke341-hub        ---------    (HTML/ Frontend Development)
 
   - Roll_24 =
-  @salonisuthar08                     -------------    (CSS Styling/ UI Styling)
+  https://github.com/salonisuthar08                     ---------    (CSS Styling/ UI Styling)
 
   - Roll_22 =
-  @Am-I-Sun                           -------------    (JS Logic/ Documentation)
+  https://github.com/Am-I-Sun                           ---------    (JS Logic/ Documentation)
 ___________________________________________________________________
 
 Currency Converter (USD ⇄ INR)
