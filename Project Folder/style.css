@@ -1,0 +1,96 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Page background */
+body {
+  height: 100vh;
+  background: linear-gradient(135deg, #5e7791, #111827);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Main container */
+.container {
+  background: #1e293b; 
+  padding: 30px 35px;
+  width: 320px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+}
+
+/* Heading */
+.container h1 {
+  color: #f9fafb;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+/* Input */
+input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  margin-bottom: 15px;
+  background: #a6bfe2;
+  color: #f9fafb;
+}
+
+/* Dropdowns */
+.dropdowns {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+select {
+  width: 100%;
+  padding: 10px;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  background: #334155;
+  color: #f9fafb;
+}
+
+/* Button */
+button {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+  background: #3b82f6; 
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+/* Hover effect */
+button:hover {
+  background: #2563eb;
+  transform: translateY(-2px);
+}
+
+/* Touch click effect */
+button:active {
+  background: #1d4ed8;
+  transform: scale(0.97);
+}
+
+/* Result text */
+#result {
+  margin-top: 15px;
+  color: #e5e7eb;
+  font-size: 16px;
+}
